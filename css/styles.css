@@ -50,6 +50,7 @@ p {
   background-color: #E4FBFF;
   padding-top: 100px;
   position: relative;
+  height: 50%;
 }
 
 .intro{
@@ -60,11 +61,13 @@ p {
 .middle {
   background-color: #DDDDDD;
   padding-top: 75px;
+  height: 30%;
   }
 
 .bottom {
   background-color: #66BFBF;
   padding-top: 30px;
+  height: 20%;
   }
 
 .bottom-cloud {
