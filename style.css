@@ -36,12 +36,14 @@ border-style: none;
 border-top-style: dotted;
 border-width: 7px;
 width: 10%;
+margin: 75px auto;
 
 }
 
 p {
   margin-top: 2px;
   padding: 10px 10px;
+  line-height: 2;
 }
 
 .top {
@@ -50,8 +52,14 @@ p {
   position: relative;
 }
 
+.intro{
+  width: 75%;
+  margin: auto;
+}
+
 .middle {
   background-color: #DDDDDD;
+  padding-top: 75px;
   }
 
 .bottom {
